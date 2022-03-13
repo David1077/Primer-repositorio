@@ -48,6 +48,7 @@ def salir():
 
 def menu():
     while True:
+        print("\nPrograma que calcula el área de figuras")
         print("\nSeleccione la figura:\n"
               "1) Círculo\n"
               "2) Cuadrado\n"
